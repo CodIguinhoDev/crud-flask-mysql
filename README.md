@@ -37,12 +37,13 @@ Estrutura da tabela no MySQL:
 ---
 
 ### Deletar usuário por ID (DELETE)
-<img width="438" height="17" alt="DELETE usuário" src="https://github.com/user-attachments/assets/9bf570e3-16c7-47e9-b752-cd027a9db073" />
+<img width="421" height="246" alt="Image" src="https://github.com/user-attachments/assets/5170bde5-5c25-41a5-ae64-c9ba93a8b9b4" />
+
 
 ---
 
 ### Banco de dados após exclusão do usuário
-<img width="421" height="246" alt="Image" src="https://github.com/user-attachments/assets/5170bde5-5c25-41a5-ae64-c9ba93a8b9b4" />
+<img width="438" height="17" alt="DELETE usuário" src="https://github.com/user-attachments/assets/9bf570e3-16c7-47e9-b752-cd027a9db073" />
 
 ---
 
