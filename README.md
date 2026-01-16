@@ -42,7 +42,7 @@ Estrutura da tabela no MySQL:
 ---
 
 ### Banco de dados após exclusão do usuário
-<img width="409" height="466" alt="Banco após DELETE" src="https://github.com/user-attachments/assets/1a397d80-8794-4b59-a064-b0403a9efd93" />
+<img width="421" height="246" alt="Image" src="https://github.com/user-attachments/assets/5170bde5-5c25-41a5-ae64-c9ba93a8b9b4" />
 
 ---
 
