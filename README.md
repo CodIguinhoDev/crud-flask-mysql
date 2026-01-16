@@ -16,12 +16,13 @@ Estrutura da tabela no MySQL:
 ---
 
 ### Criar novo usuário (POST)
-<img width="464" height="261" alt="POST usuário" src="https://github.com/user-attachments/assets/3b0847e5-ee61-4e19-bff3-2588c0d7ad80" />
+<img width="389" height="484" alt="Banco após POST" src="https://github.com/user-attachments/assets/a65db9b3-dd18-4cf6-8c3f-7f9eb1fa79e8" />
+
 
 ---
 
 ### Banco de dados após criação do usuário
-<img width="389" height="484" alt="Banco após POST" src="https://github.com/user-attachments/assets/a65db9b3-dd18-4cf6-8c3f-7f9eb1fa79e8" />
+<img width="464" height="261" alt="POST usuário" src="https://github.com/user-attachments/assets/3b0847e5-ee61-4e19-bff3-2588c0d7ad80" />
 
 ---
 
