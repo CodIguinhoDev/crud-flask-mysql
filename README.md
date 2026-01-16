@@ -27,7 +27,12 @@ Estrutura da tabela no MySQL:
 ---
 
 ### Atualizar informações do usuário (PUT)
-<img width="421" height="246" alt="PUT usuário" src="https://github.com/user-attachments/assets/2627579f-301a-40a5-8d12-ec71066a7e69" />
+<img width="434" height="462" alt="Image" src="https://github.com/user-attachments/assets/82e29143-0fef-46d8-8fff-9594f902a317" />
+
+---
+
+### Banco de dados após atualização do usuário
+<img width="438" height="17" alt="Image" src="https://github.com/user-attachments/assets/eba4cbbd-d20b-4c5d-94a4-f35b029cbfec" />
 
 ---
 
