@@ -37,7 +37,7 @@ Estrutura da tabela no MySQL:
 ---
 
 ### Deletar usuário por ID (DELETE)
-<img width="421" height="246" alt="Image" src="https://github.com/user-attachments/assets/5170bde5-5c25-41a5-ae64-c9ba93a8b9b4" />
+<img width="409" height="466" alt="Image" src="https://github.com/user-attachments/assets/721ab6c2-1488-451b-898e-a0c021832124" />
 
 
 ---
